@@ -1,0 +1,16 @@
+PODS:
+  - PopAnimation (0.1.0)
+
+DEPENDENCIES:
+  - PopAnimation (from `../`)
+
+EXTERNAL SOURCES:
+  PopAnimation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PopAnimation: 607922d07e480e8de9367cd7294495b94f58c287
+
+PODFILE CHECKSUM: 63d9acf9814fed5f50f7bfba7019306dc9492f21
+
+COCOAPODS: 1.10.0

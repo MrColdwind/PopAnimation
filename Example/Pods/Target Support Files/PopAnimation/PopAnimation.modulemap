@@ -1,0 +1,6 @@
+framework module PopAnimation {
+  umbrella header "PopAnimation-umbrella.h"
+
+  export *
+  module * { export * }
+}
