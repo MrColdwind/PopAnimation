@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PopAnimation_Tests' do
+  pod 'PopAnimation', :path => '../'
+  
+  
+end
